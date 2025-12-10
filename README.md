@@ -1,16 +1,42 @@
-# React + Vite
+# Kira Sayuri - Portfolio Profesional 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene el código fuente de mi portafolio personal. Aquí muestro mis proyectos, habilidades técnicas y experiencia como desarrollador.
 
-Currently, two official plugins are available:
+🔗 **Demo en vivo:** [Esta en proceso]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías utilizadas
 
-## React Compiler
+Este proyecto fue construido utilizando las siguientes herramientas:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React** (Librería de UI)
+* **Vite** (Empaquetador y entorno de desarrollo rápido)
+* **CSS / Tailwind 
+* **JavaScript / TypeScript**
 
-## Expanding the ESLint configuration
+## ✨ Características
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Diseño **Responsive**.
+* Sección de **Proyectos** con enlaces a repositorios y demos.
+* Formulario de **Contacto** funcional.
+* Modo Oscuro/Claro.
+
+## 💻 Instalación y Uso Local
+
+Si deseas clonar y correr este proyecto en tu entorno local:
+
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone https://github.com/DEV-KIRA2021/portfolio.git
+    ```
+
+2.  **Instalar dependencias:**
+    Navega a la carpeta del proyecto y ejecuta:
+    ```bash
+    npm install
+    ```
+
+3.  **Iniciar el servidor de desarrollo:**
+    ```bash
+    npm run dev
+    ```
+Hecho con ❤️ por Kira.
