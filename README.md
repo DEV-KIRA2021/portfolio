@@ -10,7 +10,7 @@ Este proyecto fue construido utilizando las siguientes herramientas:
 
 * **React** (Librería de UI)
 * **Vite** (Empaquetador y entorno de desarrollo rápido)
-* **CSS / Tailwind 
+* **CSS / Tailwind**
 * **JavaScript / TypeScript**
 
 ## ✨ Características
