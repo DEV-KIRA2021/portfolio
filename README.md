@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de mi portafolio personal. Aquí muestro mis proyectos, habilidades técnicas y experiencia como desarrollador.
 
-🔗 **Demo en vivo:** [Esta en proceso]
+🔗 **Demo en vivo:** https://dev-kira2021.github.io/portfolio/
 
 ## 🛠️ Tecnologías utilizadas
 
